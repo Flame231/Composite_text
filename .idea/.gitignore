@@ -1,0 +1,15 @@
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+logs/
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+.DS_Store
+Thumbs.db
